@@ -9,7 +9,7 @@ Criar uma solução automatizada que reduzisse o tempo gasto com o envio de mens
 Desenvolvi uma automação em Python, utilizando Selenium para controle do WhatsApp Web e Pandas para manipulação dos dados dos pacientes. O sistema lê a planilha, gera mensagens personalizadas e realiza o envio automático, em apenas 10 segundos por mensagem, permitindo que a equipe se concentre em outras tarefas enquanto a comunicação é feita.
 
 📊 Impacto
-⏱️ Redução de tempo: de 3 horas para menos de 10 segundos por mensagem
+⏱️ Redução de tempo: de 3 horas para menos de 15 segundos por mensagem
 
 ⚙️ Eficiência operacional aumentada em mais de 95%
 
