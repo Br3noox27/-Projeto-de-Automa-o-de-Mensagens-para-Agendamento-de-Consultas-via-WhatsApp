@@ -10,6 +10,8 @@ Desenvolvi uma automação em Python, utilizando Selenium para controle do Whats
 ⚠️ Atenção: Cuidado com as Políticas do WhatsApp
 É importante ressaltar que o WhatsApp tem políticas rigorosas contra o uso de automações. O uso indevido da ferramenta pode resultar em bloqueios temporários ou até permanentes da conta. Portanto, essa automação deve ser utilizada com cautela, para fins específicos e em conformidade com as regras da plataforma. Recomenda-se usar a automação de forma responsável e monitorada.
 
+----
+
 📊 Impacto
 ⏱️ Redução de tempo: de 3 horas para menos de 15 segundos por mensagem
 
