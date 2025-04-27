@@ -1,7 +1,7 @@
 🩺 Desafio Real: Automatizando a Comunicação Hospitalar com WhatsApp
 Em um hospital com dezenas de atendimentos diários, a equipe gastava mais de 3 horas por dia apenas enviando mensagens de confirmação de consultas via WhatsApp — uma tarefa manual, repetitiva e suscetível a erros humanos.
 
----
+--
 
 🎯 O Desafio
 Criar uma solução automatizada que reduzisse o tempo gasto com o envio de mensagens e aumentasse a eficiência do atendimento, sem comprometer a personalização do contato com o paciente.
